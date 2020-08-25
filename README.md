@@ -4,10 +4,6 @@
 
 ##### 图片必须通过 引入组件 Images 来展示。 并通过 src 参数传入图片的相对路径；
 
-如：
-
-<code> <Images src="../../images/xxxx.jpg" />  </code>
-
 #### 安装依赖
 
 > <code> npm install </code>
